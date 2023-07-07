@@ -1,1 +1,1 @@
-export { Counter } from "./counter";
+export { Modal } from "./modal";
