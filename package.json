@@ -20,9 +20,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fildon/typescript-components-by-rupert/issues"
+    "url": "https://github.com/LucieCaillat/OCR-P14_library/issues"
   },
-  "homepage": "https://github.com/fildon/typescript-components-by-rupert#readme",
+  "homepage": "https://github.com/LucieCaillat/OCR-P14_library#readme",
   "devDependencies": {
     "@types/react": "^17.0.14",
     "@types/react-dom": "^18.2.6",
