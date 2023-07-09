@@ -1,3 +1,12 @@
+/**
+ *
+ * @param {string} children : the text of your modal
+ * @param {boolean} open : a boolean state
+ * @param {function} onClose : a function that changes the boolean state
+ * @param {HTMLElement} HtmlElement : the physical placement of the DOM node for your modal
+ * @returns a modal box
+ */
+
 import * as React from "react";
 import "./modal.css";
 import { createPortal } from "react-dom";
