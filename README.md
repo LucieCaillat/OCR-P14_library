@@ -21,7 +21,7 @@ Install this package:
 npm i ocr_14_library
 ```
 
-Import the Counter component:
+Import the Modal component:
 
 ```js
 import { Modal } from "ocr_14_library";
